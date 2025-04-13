@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-[View the deployed application on Vercel](https://reqres-user-management-omega.vercel.app/)
+Click [here](https://reqres-user-management-omega.vercel.app/) to check the deployed app.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
